@@ -37,8 +37,8 @@ README.md             # Project documentation
 # Installation
 
 ```text
-git clone https://your_repository_url.git
-cd your_repository_directory
+git clone https://github.com/Nflrijal/data-scrapping-and-processing.git
+cd data-scrapping-and-processing
 pip install -r requirements.txt
 ```
 
